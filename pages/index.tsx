@@ -14,8 +14,8 @@ const Home: NextPage = () => {
       <Grid sx={{ p: 4 }}>
         <Heading>👋 Hello there!</Heading>
         <Paragraph>
-          You've found <Link href="https://github.com/cobraz">@cobraz</Link>'s{" "}
-          website.
+          You&apos;ve found{" "}
+          <Link href="https://github.com/cobraz">@cobraz</Link>&apos;s website.
         </Paragraph>
         <Paragraph>
           For more than a decade, this website has been just a placeholder
