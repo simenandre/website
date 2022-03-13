@@ -21,7 +21,7 @@ const Home: NextPage = () => {
           For more than a decade, this website has been just a placeholder
           without much use.
         </Paragraph>
-        <Paragraph>I indent to keep it that way! 👍</Paragraph>
+        <Paragraph>I intend to keep it that way! 👍</Paragraph>
       </Grid>
     </Container>
   );
