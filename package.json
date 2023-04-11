@@ -1,6 +1,7 @@
 {
   "name": "website",
   "private": true,
+  "repository": "github:simenandre/website",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
