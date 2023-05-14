@@ -13,12 +13,12 @@
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
     "@mdx-js/react": "1",
-    "@theme-ui/presets": "^0.13.1",
+    "@theme-ui/presets": "^0.15.0",
     "next": "12.1.0",
     "next-theme-ui": "1.2.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "theme-ui": "^0.13.1"
+    "theme-ui": "^0.15.0"
   },
   "devDependencies": {
     "@types/node": "17.0.17",
