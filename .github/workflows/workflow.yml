@@ -17,7 +17,7 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
           cache: yarn
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           path: ${{ github.workspace }}/.next/cache
           key:
