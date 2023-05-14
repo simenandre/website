@@ -21,7 +21,7 @@
     "theme-ui": "^0.15.0"
   },
   "devDependencies": {
-    "@types/node": "17.0.17",
+    "@types/node": "18.16.9",
     "@types/react": "18.2.6",
     "eslint": "8.40.0",
     "eslint-config-next": "12.3.4",
