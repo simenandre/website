@@ -1,0 +1,21 @@
+<main>
+	<h1>👋 Hello there!</h1>
+	<p>
+		You&apos;ve found <a href="https://github.com/simenandre">@simenandre</a>&apos;s website.
+	</p>
+	<p>I enjoy making things!</p>
+</main>
+
+<style>
+	main {
+		padding: 1rem;
+	}
+	* {
+		font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
+			sans-serif;
+		box-sizing: border-box;
+		min-width: 0;
+		font-weight: 400;
+		line-height: 1.5;
+	}
+</style>
