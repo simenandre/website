@@ -33,7 +33,7 @@ devDependencies:
     version: 3.59.1
   svelte-check:
     specifier: ^3.0.1
-    version: 3.3.2(svelte@3.59.1)
+    version: 3.3.2(postcss@8.4.23)(svelte@3.59.1)
   tslib:
     specifier: ^2.4.1
     version: 2.5.2
@@ -1568,7 +1568,7 @@ packages:
       has-flag: 4.0.0
     dev: true
 
-  /svelte-check@3.3.2(svelte@3.59.1):
+  /svelte-check@3.3.2(postcss@8.4.23)(svelte@3.59.1):
     resolution: {integrity: sha512-67j3rI0LDc2DvL0ON/2pvCasVVD3nHDrTkZNr4eITNfo2oFXdw7SIyMOiFj4swu+pjmFQAigytBK1IWyik8dBw==}
     hasBin: true
     peerDependencies:
@@ -1581,7 +1581,7 @@ packages:
       picocolors: 1.0.0
       sade: 1.8.1
       svelte: 3.59.1
-      svelte-preprocess: 5.0.3(svelte@3.59.1)(typescript@5.0.4)
+      svelte-preprocess: 5.0.3(postcss@8.4.23)(svelte@3.59.1)(typescript@5.0.4)
       typescript: 5.0.4
     transitivePeerDependencies:
       - '@babel/core'
@@ -1619,7 +1619,7 @@ packages:
       svelte: 3.59.1
     dev: true
 
-  /svelte-preprocess@5.0.3(svelte@3.59.1)(typescript@5.0.4):
+  /svelte-preprocess@5.0.3(postcss@8.4.23)(svelte@3.59.1)(typescript@5.0.4):
     resolution: {integrity: sha512-GrHF1rusdJVbOZOwgPWtpqmaexkydznKzy5qIC2FabgpFyKN57bjMUUUqPRfbBXK5igiEWn1uO/DXsa2vJ5VHA==}
     engines: {node: '>= 14.10.0'}
     requiresBuild: true
@@ -1660,6 +1660,7 @@ packages:
       '@types/pug': 2.0.6
       detect-indent: 6.1.0
       magic-string: 0.27.0
+      postcss: 8.4.23
       sorcery: 0.11.0
       strip-indent: 3.0.0
       svelte: 3.59.1
