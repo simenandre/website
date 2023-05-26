@@ -16,7 +16,7 @@ permissions:
 concurrency: preview-${{ github.ref }}
 
 jobs:
-  deploy-preview:
+  pr:
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout 🛎️
