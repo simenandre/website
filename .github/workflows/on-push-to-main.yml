@@ -50,7 +50,7 @@ jobs:
       - name: Upload GitHub Pages assets 📦️
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./build
+          path: ./dist
 
   deploy:
     name: Deployment
@@ -63,6 +63,6 @@ jobs:
       - name: Deploy to GitHub Pages 🚀
         id: deployment
         uses: actions/deploy-pages@v2
-      # - uses: atymic/sitemap-ping-action@master
-      #   with:
-      #     sitemap-url: https://tabetalt.no/sitemap.xml
+      - uses: atymic/sitemap-ping-action@master
+        with:
+          sitemap-url: https://simenandre.no/sitemap-index.xml
