@@ -1,5 +1,5 @@
 ---
-title: '- Et gap mellom de som trenger produkter, og de som lager dem'
+title: '– Et gap mellom de som trenger produkter, og de som lager dem'
 image: ./simen-kurt-lekanger.jpg
 date: 2023-10-08
 language: nb-NO

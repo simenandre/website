@@ -3,8 +3,8 @@ title: Your Perfect Infrastructure Sucks
 image: ./simen-hoyesterett.jpg
 date: 2024-12-16
 description: |
-    Building systems designed for easy change is more valuable than
-    attempting to create the perfect future-proof architecture.
+  Building systems designed for easy change is more valuable than
+  attempting to create the perfect future-proof architecture.
 author: Simen A. W. Olsen
 ---
 
