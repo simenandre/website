@@ -3,6 +3,11 @@ import { getCollection } from 'astro:content';
 import Layout from '../layout.astro';
 
 const articles = await getCollection('article');
+const sortedArticles = articles.sort((a, b) => {
+  const dateA = new Date(a.data.date);
+  const dateB = new Date(b.data.date);
+  return dateB - dateA;
+});
 ---
 
 <Layout title="@simenandre">
