@@ -6,9 +6,9 @@ date: 2023-01-01
 language: nb-NO
 author: Simen A. W. Olsen
 syndications:
-- publication: Medium
-  publishedAt: 2023-10-02
-  url: https://medium.com/@simenandre/arbeidsflyt-a65961bd9329
+  - publication: Medium
+    publishedAt: 2023-10-02
+    url: https://medium.com/@simenandre/arbeidsflyt-a65961bd9329
 ---
 
 For snart én måned siden kastet jeg hele arbeidsflyten min og begynte på nytt,
@@ -27,7 +27,7 @@ program, men hvordan jeg bruker det. Det hele startet med at jeg hadde lyst til
 å resette alt. Starte litt på scratch, du vet, lære det hele litt på nytt. Det
 skulle vise seg å være det beste jeg har gjort.
 
-![En person som skriver på en notatblokk](./k8-G8dlL6UEt_I-unsplash.jpg "This is a title")
+![En person som skriver på en notatblokk](./k8-G8dlL6UEt_I-unsplash.jpg 'This is a title')
 
 La oss se litt på hva jeg hadde før. For å notere ting ned, skrev jeg i Apple
 sin notater og Google Keep. Om jeg skulle dele notatene mine med noen, brukte
