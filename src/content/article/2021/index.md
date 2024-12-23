@@ -2,7 +2,7 @@
 title: Supercharging our GitHub Action with the Automation API
 date: 2021-03-01
 author: Simen A. W. Olsen & Paul Stack
-image: ./simen-myntgata-2.jpg 
+image: ./simen-myntgata-2.jpg
 syndications:
   - publication: Pulumi.com
     publishedAt: 2021-03-01
