@@ -63,9 +63,9 @@ const articleSchema: any = {
 };
 
 if (syndications) {
-  articleSchema.isPartOf = syndications.map(url => ({
+  articleSchema.isPartOf = syndications.map(syndication => ({
     '@type': 'CreativeWork',
-    '@id': url,
+    '@id': syndication.url,
   }));
 
   canonicalURL = new URL(syndications[0].url);
