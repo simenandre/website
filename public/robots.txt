@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://simenandre.no/sitemap-index.xml
