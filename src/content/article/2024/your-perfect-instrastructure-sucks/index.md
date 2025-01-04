@@ -1,5 +1,5 @@
 ---
-title: Your Perfect Infrastructure Sucks
+title: Your Perfect Architecture Sucks
 image: ./simen-hoyesterett.jpg
 date: 2024-12-16
 description: |
